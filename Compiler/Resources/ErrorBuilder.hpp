@@ -1,6 +1,6 @@
 #pragma once
 
-#include "./Resources/ErrorTypes.hpp"
+#include "ErrorTypes.hpp"
 #include <utility>
 
 namespace Tarn
