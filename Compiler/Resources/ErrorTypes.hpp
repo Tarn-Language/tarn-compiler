@@ -1,5 +1,6 @@
 #pragma once
 
+#include "./ErrorTypes.hpp"
 #include <string>
 #include <vector>
 #include <optional>
@@ -12,16 +13,6 @@ namespace Tarn
         Warning,
         Note,
         Help
-    };
-
-    struct Span
-    {
-        std::string fileName;
-
-        size_t startLine;
-        size_t startColumn;
-        size_t endLine;
-        size_t endColumn;
     };
 
     struct Label
