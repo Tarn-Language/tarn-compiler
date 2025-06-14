@@ -1,5 +1,6 @@
-#include "../Resources/ErrorBuilder.hpp";
-#include "../Resources/ErrorRegistry.hpp";
+#include "../Resources/ErrorBuilder.hpp"
+#include "../Resources/ErrorSpan.hpp"
+#include "../Resources/ErrorRegistry.hpp"
 
 namespace Tarn
 {

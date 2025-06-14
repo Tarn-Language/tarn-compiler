@@ -1,4 +1,4 @@
-#include "../Resources/ErrorRegistry.hpp";
+#include "../Resources/ErrorRegistry.hpp"
 
 namespace Tarn::Errors
 {

@@ -1,6 +1,6 @@
 #pragma once
 
-#include "./ErrorTypes.hpp";
+#include "./ErrorTypes.hpp"
 #include "./ErrorOutputFormat.hpp"
 #include "./ErrorSpan.hpp"
 

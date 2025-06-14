@@ -1,4 +1,4 @@
-#include "../Resources/ErrorOutputFormat.hpp";
+#include "../Resources/ErrorOutputFormat.hpp"
 
 namespace Tarn
 {

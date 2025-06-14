@@ -1,4 +1,4 @@
-#include "../Resources/ErrorEmitter.hpp";
+#include "../Resources/ErrorEmitter.hpp"
 #include <iostream>
 #include <fstream>
 #include <sstream>

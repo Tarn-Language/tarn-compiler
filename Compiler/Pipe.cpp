@@ -1,9 +1,9 @@
-#include "Compiler/Resources/ErrorEmitter.hpp"
-#include "Compiler/Resources/ErrorLogic.hpp"
-#include "Compiler/Resources/ErrorBuilder.hpp"
-#include "Compiler/Resources/ErrorOutputFormat.hpp"
-#include "Compiler/Resources/ErrorRegistry.hpp"
-#include "Compiler/Resources/ErrorSpan.hpp"
+#include "Resources/ErrorEmitter.hpp"
+#include "Resources/ErrorLogic.hpp"
+#include "Resources/ErrorBuilder.hpp"
+#include "Resources/ErrorOutputFormat.hpp"
+#include "Resources/ErrorRegistry.hpp"
+#include "Resources/ErrorSpan.hpp"
 #include <fstream>
 #include <iostream>
 #include <sstream>

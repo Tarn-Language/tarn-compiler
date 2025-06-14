@@ -1,10 +1,10 @@
 #pragma once
 
-#include "./ErrorTypes.hpp";
-#include "./ErrorRegistry.hpp";
-#include "./ErrorBuilder.hpp";
-#include "./ErrorEmitter.hpp";
-#include "./ErrorSpan.hpp";
+#include "./ErrorTypes.hpp"
+#include "./ErrorRegistry.hpp"
+#include "./ErrorBuilder.hpp"
+#include "./ErrorEmitter.hpp"
+#include "./ErrorSpan.hpp"
 
 namespace Tarn::ErrorLogic
 {
